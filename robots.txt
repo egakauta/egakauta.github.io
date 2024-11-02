@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://egakauta.github.io/Bka/sitemap_index.txt
+Sitemap: https://egakauta.github.io/KMR/sitemap_index.txt
+Sitemap: https://egakauta.github.io/VUG/sitemap_index.txt
+Sitemap: https://egakauta.github.io/VkQ/sitemap_index.txt
